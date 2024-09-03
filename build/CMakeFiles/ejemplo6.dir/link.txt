@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ejemplo6.dir/ejemplos/ejemplo6.cpp.o -o ejemplo6 

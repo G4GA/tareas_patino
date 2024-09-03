@@ -1,0 +1,8 @@
+/home/damian/Documents/Universidad/8vo/tareas_patino/build/CMakeFiles/ejemplo1.dir
+/home/damian/Documents/Universidad/8vo/tareas_patino/build/CMakeFiles/ejemplo2.dir
+/home/damian/Documents/Universidad/8vo/tareas_patino/build/CMakeFiles/ejemplo3.dir
+/home/damian/Documents/Universidad/8vo/tareas_patino/build/CMakeFiles/ejemplo4.dir
+/home/damian/Documents/Universidad/8vo/tareas_patino/build/CMakeFiles/ejemplo5.dir
+/home/damian/Documents/Universidad/8vo/tareas_patino/build/CMakeFiles/ejemplo6.dir
+/home/damian/Documents/Universidad/8vo/tareas_patino/build/CMakeFiles/edit_cache.dir
+/home/damian/Documents/Universidad/8vo/tareas_patino/build/CMakeFiles/rebuild_cache.dir
